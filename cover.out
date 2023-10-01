@@ -1,0 +1,26 @@
+mode: set
+github.com/jamesharringtondev/serverless-go/lambda/pkg/services/DynamoService.go:18.180,23.16 2 1
+github.com/jamesharringtondev/serverless-go/lambda/pkg/services/DynamoService.go:26.2,26.32 1 1
+github.com/jamesharringtondev/serverless-go/lambda/pkg/services/DynamoService.go:23.16,25.3 1 1
+github.com/jamesharringtondev/serverless-go/lambda/pkg/services/DynamoService.go:33.179,38.16 2 1
+github.com/jamesharringtondev/serverless-go/lambda/pkg/services/DynamoService.go:41.2,41.23 1 1
+github.com/jamesharringtondev/serverless-go/lambda/pkg/services/DynamoService.go:38.16,40.3 1 0
+github.com/jamesharringtondev/serverless-go/lambda/pkg/services/DynamoService.go:48.185,53.16 2 1
+github.com/jamesharringtondev/serverless-go/lambda/pkg/services/DynamoService.go:56.2,56.31 1 1
+github.com/jamesharringtondev/serverless-go/lambda/pkg/services/DynamoService.go:53.16,55.3 1 0
+github.com/jamesharringtondev/serverless-go/lambda/pkg/services/DynamoService.go:63.187,67.16 2 1
+github.com/jamesharringtondev/serverless-go/lambda/pkg/services/DynamoService.go:70.2,70.26 1 1
+github.com/jamesharringtondev/serverless-go/lambda/pkg/services/DynamoService.go:67.16,69.3 1 0
+github.com/jamesharringtondev/serverless-go/lambda/pkg/shared/common.go:9.57,12.19 2 1
+github.com/jamesharringtondev/serverless-go/lambda/pkg/shared/common.go:16.2,16.25 1 1
+github.com/jamesharringtondev/serverless-go/lambda/pkg/shared/common.go:12.19,14.3 1 1
+github.com/jamesharringtondev/serverless-go/lambda/handlers/secondLambda/main.go:24.93,26.16 2 1
+github.com/jamesharringtondev/serverless-go/lambda/handlers/secondLambda/main.go:30.2,30.28 1 1
+github.com/jamesharringtondev/serverless-go/lambda/handlers/secondLambda/main.go:34.2,35.16 2 1
+github.com/jamesharringtondev/serverless-go/lambda/handlers/secondLambda/main.go:39.2,39.18 1 1
+github.com/jamesharringtondev/serverless-go/lambda/handlers/secondLambda/main.go:43.2,46.8 1 1
+github.com/jamesharringtondev/serverless-go/lambda/handlers/secondLambda/main.go:26.16,28.3 1 1
+github.com/jamesharringtondev/serverless-go/lambda/handlers/secondLambda/main.go:30.28,32.3 1 1
+github.com/jamesharringtondev/serverless-go/lambda/handlers/secondLambda/main.go:35.16,37.3 1 0
+github.com/jamesharringtondev/serverless-go/lambda/handlers/secondLambda/main.go:39.18,41.3 1 0
+github.com/jamesharringtondev/serverless-go/lambda/handlers/secondLambda/main.go:49.13,51.2 1 0
